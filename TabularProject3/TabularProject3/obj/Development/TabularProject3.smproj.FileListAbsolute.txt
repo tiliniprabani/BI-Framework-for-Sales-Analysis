@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Desktop\ADBMS PRACTICLE\TabularProject3\TabularProject3\bin\demomodel.asdatabase
+C:\Users\Lenovo\Desktop\ADBMS PRACTICLE\TabularProject3\TabularProject3\bin\demomodel.deploymenttargets
+C:\Users\Lenovo\Desktop\ADBMS PRACTICLE\TabularProject3\TabularProject3\bin\demomodel.deploymentoptions
+C:\Users\Lenovo\Desktop\ADBMS PRACTICLE\TabularProject3\TabularProject3\obj\Development\TabularProject3.smproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\ADBMS PRACTICLE\TabularProject3\TabularProject3\obj\Development\TabularProject3.smproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ADBMS PRACTICLE\TabularProject3\TabularProject3\obj\Development\demomodel.asdatabase
+C:\Users\Lenovo\Desktop\ADBMS PRACTICLE\TabularProject3\TabularProject3\obj\Development\demomodel.deploymentoptions
+C:\Users\Lenovo\Desktop\ADBMS PRACTICLE\TabularProject3\TabularProject3\obj\Development\demomodel.deploymenttargets
